@@ -1,3 +1,7 @@
-<!-- bootsrapped using @nurikjohn/create-me-project -->
+# A custom micro-service application for Node.js written in TypeScript
 
-# Sample Express APP with MongoDB and typescript
+issue the "npm start" command to get started
+
+before you start, you need to wrap the ts-knot globally
+
+To set the ts-node, issue the command "npm i ts-node" on the terminal

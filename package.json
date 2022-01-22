@@ -4,7 +4,7 @@
     "description": "Created with create-me-app",
     "main": "./src/index.ts",
     "scripts": {
-        "dev": "nodemon --config nodemon.json ./src/routes/sample.ts",
+        "dev": "nodemon --config nodemon.json ./src/index.ts",
         "start": "ts-node ./src/index.ts"
     },
     "keywords": [],
